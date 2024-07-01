@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(228, 228, 228);
+}
+.mtavari
+{
+    margin: auto;
+    width: 920px;
+    height: 550px;
+    background-color: white;
+   display: flex;
+   margin-top: 80px;
+}
+
+.nomeri{
+    margin-top: -490px;
+    margin-left: 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nomeri>.erti>button{
+     background-color: transparent;
+     border-radius: 360px;
+     border: solid 1px white;
+     width: 35px;
+     height: 35px;
+     font-size: 19px;
+     margin-top: 10px;
+     margin-bottom: 20px;
+     color: white;
+}
+.erti{
+    display: flex;
+}
+.erti>.txt{
+   margin-left: 10px;
+   margin-top:8px ;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.erti>.txt>p{
+    font-size: 15px;
+    color: rgb(211, 210, 210);
+}
+.nomeri>.ori>button{
+    background-color: rgb(173, 232, 255);
+    
+    border-radius: 360px;
+    border: solid 1px white;
+    width: 35px;
+    height: 35px;
+    font-size: 19px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: black;
+    margin-bottom: 20px;
+}
+.ori{
+    display: flex;
+}
+.ori>.txt2{
+   margin-left: 10px;
+   margin-top:8px ;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ori>.txt2>p{
+    font-size: 15px;
+    color: rgb(211, 210, 210);
+}
+.nomeri>.sami>button{
+    background-color: transparent;
+    border-radius: 360px;
+    border: solid 1px white;
+    width: 35px;
+    height: 35px;
+    font-size: 19px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.sami{
+    display: flex;
+}
+.sami>.txt3{
+   margin-left: 10px;
+   margin-top:8px ;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sami>.txt3>p{
+    font-size: 15px;
+    color: rgb(211, 210, 210);
+}
+.nomeri>.otxi>button{
+    background-color: transparent;
+    border-radius: 360px;
+    border: solid 1px white;
+    width: 35px;
+    height: 35px;
+    font-size: 19px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: white;
+}
+.otxi{
+    display: flex;
+}
+.otxi>.txt4{
+   margin-left: 10px;
+   margin-top:8px ;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.otxi>.txt4>p{
+    font-size: 15px;
+    color: rgb(211, 210, 210);
+}
+.text{
+    margin-left: 60px;
+    margin-top: 60px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text>h1{
+    margin-bottom: 9px;
+    color: rgb(29, 29, 75);
+}
+.text>p{
+    color: rgb(158, 157, 157);
+    margin-bottom: 50px;
+}
+
+.card
+{
+    display: flex;
+   gap: 30px;
+}
+.card1>svg{
+    margin-top: 9px;
+}
+.card1{
+    width: 140px;
+    height: 190px;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 10px;
+}
+.card1>h3{
+ padding-top: 40px ;
+ color: rgb(28, 28, 124);
+ margin-bottom: 5px;
+}
+.card1>h4{
+margin-bottom: 5px;
+color: rgb(155, 154, 154);
+}
+.card1>p{
+color: rgb(18, 30, 83);
+
+}
+
+.card2>svg{
+    margin-top: 9px;
+}
+.card2{
+    width: 140px;
+    height: 190px;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 10px;
+}
+.card2>h3{
+ padding-top: 40px ;
+ color: rgb(28, 28, 124);
+ margin-bottom: 5px;
+}
+.card2>h4{
+margin-bottom: 5px;
+color: rgb(155, 154, 154);
+}
+.card2>p{
+color: rgb(18, 30, 83);
+
+}
+
+.card3>svg{
+    margin-top: 9px;
+}
+.card3{
+    width: 140px;
+    height: 190px;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 10px; 
+    
+}
+.card3>h3{
+ padding-top: 40px ;
+ color: rgb(28, 28, 124);
+ margin-bottom: 5px;
+}
+.card3>h4{
+margin-bottom: 5px;
+color: rgb(155, 154, 154);
+}
+.card3>p{
+color: rgb(18, 30, 83);
+
+}
+.back{
+   margin-top: 80px;
+}
+.back>a{
+    text-decoration: none;
+    color: rgb(161, 159, 159);
+    width: 100px;
+}
+.btn{
+    margin-top: 80px;
+}
+.btn>button{
+    width: 120px;
+    height: 40px;
+    margin-left: 330px;
+    background-color: rgb(4, 4, 85);
+   
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn>button>a{
+    color: white;
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
